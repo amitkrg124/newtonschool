@@ -1,2 +1,2 @@
-# newtonschool
-learning purpose
+# Newton school
+
